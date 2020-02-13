@@ -25,3 +25,9 @@ In order to find the most famous routines of these comedians, we looked at the L
 ![Capture](https://user-images.githubusercontent.com/54930611/74466989-e5a5e100-4e5d-11ea-8574-e7bb4f9a0235.PNG)
 
 The next thing was to scrape the transcript for these routines and to do so, I did web scraping from https://scrapsfromtheloft.com/. 
+
+The order of the scripts uploaded are as follows -
+1. Data Cleaning
+2. Exploratory Analysis
+3. Sentiment Analysis
+4. Topic Modeling
