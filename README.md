@@ -22,3 +22,6 @@ In this project, we have used natural language processing to answer some of thes
 
 In order to find the most famous routines of these comedians, we looked at the LMDB ratings of their routines and picked the one that had the highest rating that were voted by atleast 2000 viewers.
 
+![Capture](https://user-images.githubusercontent.com/54930611/74466989-e5a5e100-4e5d-11ea-8574-e7bb4f9a0235.PNG)
+
+The next thing was to scrape the transcript for these routines and to do so, I did web scraping from https://scrapsfromtheloft.com/. 
