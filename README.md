@@ -20,3 +20,5 @@ In this project, we have used natural language processing to answer some of thes
 11. Bill Burr	
 12. Ricky Gervais	
 
+In order to find the most famous routines of these comedians, we looked at the LMDB ratings of their routines and picked the one that had the highest rating that were voted by atleast 2000 viewers.
+
